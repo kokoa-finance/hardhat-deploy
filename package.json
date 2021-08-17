@@ -65,7 +65,7 @@
     "@ethersproject/bignumber": "^5.3.0",
     "@ethersproject/bytes": "^5.3.0",
     "@ethersproject/contracts": "^5.3.0",
-    "@ethersproject/providers": "^5.3.1",
+    "@ethersproject/providers": "github:kokoa-finance/klyatn_ethers_provider",
     "@ethersproject/solidity": "^5.3.0",
     "@ethersproject/transactions": "^5.3.0",
     "@ethersproject/wallet": "^5.3.0",
